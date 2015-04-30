@@ -11,8 +11,16 @@
   <div class="row">
     <div class="container">
       <h2>Lista de Times</h2>
-      <table class="table">
-        <?php carregarListaTimes(); ?>
+      <table class="table table-bordered">
+        <thead>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Logo</th>
+            <th></th>
+        </thead>
+        <tbody>
+            <?php carregarListaTimes(); ?>
+        </tbody>
       </table>
     </div>
   </div>

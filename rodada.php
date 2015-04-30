@@ -29,7 +29,7 @@
                     <tr>
                       <td class="logo">
                         <a href="http://www.sercaxias.com.br/" target="_blank">
-                          <img src="img/caxias.png">
+                          <img src="imagens/caxias.png">
                         </a>
                       </td>
                       <td class="esquerda">
@@ -45,7 +45,7 @@
                       </td>
                       <td class="logo">
                         <a href="http://www.celajeadense.com.br/" target="_blank">
-                          <img src="img/lajeadense.png">
+                          <img src="imagens/lajeadense.png">
                         </a>
                       </td>
                     </tr>
@@ -63,7 +63,7 @@
                     <tr>
                       <td class="logo">
                         <a href="http://www.internacional.com.br/" target="_blank">
-                          <img src="img/inter.png">
+                          <img src="imagens/inter.png">
                         </a>
                       </td>
                       <td class="esquerda">
@@ -79,7 +79,7 @@
                       </td>
                       <td class="logo">
                         <a href="http://www.ceaimore.com.br/" target="_blank">
-                          <img src="img/aimore.png">
+                          <img src="imagens/aimore.png">
                         </a>
                       </td>
                     </tr>
@@ -99,7 +99,7 @@
                     <tr>
                       <td class="logo">
                         <a href="http://saopaulors.com.br/content/" target="_blank">
-                          <img src="img/saopaulo.png">
+                          <img src="imagens/saopaulo.png">
                         </a>
                       </td>
                       <td class="esquerda">
@@ -115,7 +115,7 @@
                       </td>
                       <td class="logo">
                         <a href="http://ecsaojose.esp.br/blog/" target="_blank">
-                          <img src="img/saojose.png">
+                          <img src="imagens/saojose.png">
                         </a>
                       </td>
                     </tr>
@@ -133,7 +133,7 @@
                     <tr>
                       <td class="logo">
                         <a href="http://www.ecnh.com.br/site/" target="_blank">
-                          <img src="img/novohamburgo.png">
+                          <img src="imagens/novohamburgo.png">
                         </a>
                       </td>
                       <td class="esquerda">
@@ -149,7 +149,7 @@
                       </td>
                       <td class="logo">
                         <a href="http://www.cruzeiropoa.com.br/" target="_blank">
-                          <img src="img/cruzeiro.png">
+                          <img src="imagens/cruzeiro.png">
                         </a>
                       </td>
                     </tr>
@@ -169,7 +169,7 @@
                     <tr>
                       <td class="logo">
                         <a href="http://www.vec.net.br/" target="_blank">
-                          <img src="img/veranopolis.png">
+                          <img src="imagens/veranopolis.png">
                         </a>
                       </td>
                       <td class="esquerda">
@@ -185,7 +185,7 @@
                       </td>
                       <td class="logo">
                         <a href="http://www.ecavenida.com.br/" target="_blank">
-                          <img src="img/avenida.png">
+                          <img src="imagens/avenida.png">
                         </a>
                       </td>
                     </tr>
@@ -202,7 +202,7 @@
                     </tr>
                     <tr>
                       <td class="logo">
-                        <a href="http://www.yfc.com.br/" target="_blank"><img src="img/ypiranga.png"></a>
+                        <a href="http://www.yfc.com.br/" target="_blank"><img src="imagens/ypiranga.png"></a>
                       </td>
                       <td class="esquerda">
                         <div class="nome-time">YPIRANGA</div>
@@ -217,7 +217,7 @@
                       </td>
                       <td class="logo">
                         <a href="http://www.gremio.net/" target="_blank">
-                          <img src="img/gremio.png">
+                          <img src="imagens/gremio.png">
                         </a>
                       </td>
                     </tr>
@@ -237,7 +237,7 @@
                     <tr>
                       <td class="logo">
                         <a href="http://www.uniaofrederiquense.com.br/site/" target="_blank">
-                          <img src="img/uniao.png">
+                          <img src="imagens/uniao.png">
                         </a>
                       </td>
                       <td class="esquerda">
@@ -253,7 +253,7 @@
                       </td>
                       <td class="logo">
                         <a href="http://www.juventude.com.br/" target="_blank">
-                          <img src="img/juventude.png">
+                          <img src="imagens/juventude.png">
                         </a>
                       </td>
                     </tr>
@@ -271,7 +271,7 @@
                     <tr>
                       <td class="logo">
                         <a href="http://www.ecpassofundo.com.br/2013/index.php" target="_blank">
-                          <img src="img/passofundo.png">
+                          <img src="imagens/passofundo.png">
                         </a>
                       </td>
                       <td class="esquerda">
@@ -287,7 +287,7 @@
                       </td>
                       <td class="logo">
                         <a href="http://www.gebrasil.com.br/" target="_blank">
-                          <img src="img/brasilpelotas.png">
+                          <img src="imagens/brasilpelotas.png">
                         </a>
                       </td>
                     </tr>

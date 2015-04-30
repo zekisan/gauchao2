@@ -15,10 +15,5 @@
       <a href="rodada.php" class="btn btn-info">Rodada</a>
     </div>
   </div>
-  <div class="row">
-    <div class="container">
-      <?php include_once('resultados.php'); ?>
-    </div>
-  </div>
 </body>
 </html>
