@@ -14,15 +14,15 @@ class Time {
 
 	//setters
 	function setNome($nome){
-		$this->nome;
+		$this->nome = $nome;
 	}
 
 	function setImagem($imagem){
-		$this->imagem;
+		$this->imagem = $imagem;
 	}
 
-	function setPontos($imagem){
-		$this->imagem;
+	function setPontos($pontos){
+		$this->pontos = $pontos;
 	}
 
 	//getters
