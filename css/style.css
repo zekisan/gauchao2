@@ -1,0 +1,50 @@
+input[type=text] {
+  text-align: center;
+}
+
+tbody tr, tbody td {
+  border: none !important;
+}
+
+tr.data, th#titulo-principal {
+  text-align: center;
+}
+
+tr.data {
+  height: 30px;
+  font-size: 0.9em;
+  vertical-align: middle;
+}
+
+td.logo {
+  width: 10%;
+}
+
+.placar {
+  width: 100%;
+}
+
+.divisoria {
+  border: solid 1px #ddd;
+}
+
+.centro {
+  width: 20%;
+  text-align: center;
+}
+
+.esquerda, .direita {
+  width: 30%;
+}
+
+.esquerda {
+  text-align: left;
+}
+
+.direita {
+  text-align: right; 
+}
+
+.nome-time {
+  margin: 5%;
+}

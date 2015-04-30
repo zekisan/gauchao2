@@ -1,0 +1,16 @@
+1|Caxias|imagens/caxias.png
+2|Lajeadense|imagens/lajeadense.png
+3|São Paulo-RS|imagens/saopaulo.png
+4|São José-RS|imagens/saojose.png
+5|Veranópolis|imagens/veranopolis.png
+6|Avenida|imagens/avenida.png
+7|União Frederiquense|imagens/uniao.png
+8|Juventude|imagens/juventude.png
+9|Internacional|imagens/inter.png
+10|Aimoré|imagens/aimore.png
+11|Novo Hamburgo|imagens/novohamburgo.png
+12|Cruzeiro-RS|imagens/cruzeiro.png
+13|Ypiranga|imagens/ypiranga.png
+14|Grêmio|imagens/gremio.png
+15|Passo Fundo|imagens/passofundo.png
+16|Brasil de Pelotas|imagens/brasilpelotas.png
